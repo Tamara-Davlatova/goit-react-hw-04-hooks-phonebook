@@ -1,0 +1,22 @@
+.form {
+  padding: 20px 15px 20px 15px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 300px;
+}
+.btn {
+  /* display: inline-flex;
+  justify-content: center;
+  align-items: center; */
+  width: 100px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+.input {
+  width: 200px;
+}
